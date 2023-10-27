@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "936212837167",
+    "project_id": "loginpro-5b518",
+    "storage_bucket": "loginpro-5b518.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936212837167:android:6111af207b346ef18667da",
+        "android_client_info": {
+          "package_name": "com.example.firebase_pro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuBm1hHbnz4c3CeTuIFZrmbYEOhm-KTW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
